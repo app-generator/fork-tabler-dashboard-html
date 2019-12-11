@@ -1,4 +1,11 @@
 # Tabler
+
+<br />
+
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-tabler). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
+
 [![Backers on Open Collective](https://opencollective.com/tabler/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/tabler/sponsors/badge.svg)](#sponsors)
 <a href="https://buddy.works"><img src="https://assets.buddy.works/automated-dark.svg" alt="Automated by Buddy" align="right"></a>
