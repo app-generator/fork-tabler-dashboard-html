@@ -10,7 +10,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 | [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 | --- | --- | --- |
-| [![Flask Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen-3.png)](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [![Django Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-tabler.png)](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| [![Flask Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen-1.png)](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [![Django Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-tabler-screen-3.png)](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 
 <br />
 
