@@ -13,6 +13,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 | [![Flask Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen-1.png)](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [![Django Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-tabler-screen-3.png)](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 
 <br />
+<br />
 
 [![Backers on Open Collective](https://opencollective.com/tabler/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/tabler/sponsors/badge.svg)](#sponsors)
