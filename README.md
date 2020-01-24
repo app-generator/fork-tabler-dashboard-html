@@ -1,8 +1,16 @@
 # Tabler
 
+Open-Source Admin dashboard crafted with a simple and clean UI. 
+
 <br />
 
-> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-tabler). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+## Want more? Use coded version or Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| --- | --- | --- |
+| [![Flask Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen-3.png)](https://appseed.us/admin-dashboards/flask-dashboard-tabler) | [![Django Dashboard Tabler](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-tabler.png)](https://appseed.us/admin-dashboards/django-dashboard-tabler) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 
 <br />
 
